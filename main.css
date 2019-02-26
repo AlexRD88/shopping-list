@@ -44,6 +44,6 @@ button:hover {
   margin-bottom: 15px;
 }
 
-.shopping-item__checked:after {
-  content: '✓';
+.shopping-item__checked {
+  text-decoration-line: line-through;
 }
